@@ -1,3 +1,5 @@
+package org.jacoco.examples.maven
+
 data class Redact(
         val pii: String
 ) {
